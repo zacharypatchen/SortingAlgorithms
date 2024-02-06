@@ -39,21 +39,7 @@ public class SortingAlgorithmGraph {
                     if (line.startsWith("Sorting algorithm")) {
                         String algorithmName = line.split("-")[1].trim();
                         currentSeries = new XYSeries(algorithmName);
-                    } else if (line.startsWith("Sorted")) {
-                        String[] parts = line.split("\\s+");
-                        int size;
-
-                        if (parts.length > 6 && !parts[6].isEmpty()) {
-                            size = Integer.parseInt(parts[1]);
-                            String avgTimeString = parts[4];
-
-                            if (!avgTimeString.isEmpty()) {
-                                double avgTime = Double.parseDouble(avgTimeString);
-                                currentSeries.add(size, avgTime);
-                            }
-                        }
-                    }
-                    else if(line.startsWith("K-sorted")){
+                    } else if (line.startsWith("Sorted")||line.startsWith("K-sorted")) {
                         String[] parts = line.split("\\s+");
                         int size;
 
