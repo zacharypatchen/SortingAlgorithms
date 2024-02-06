@@ -1,0 +1,66 @@
+Sorting algorithm - BubbleSort
+K-sorted 100 elements in 0.0017820499999999999 ms (avg)
+K-sorted 500 elements in 0.008244350000000001 ms (avg)
+K-sorted 1000 elements in 0.013890450000000002 ms (avg)
+K-sorted 2000 elements in 0.023758299999999996 ms (avg)
+K-sorted 5000 elements in 0.01619185 ms (avg)
+K-sorted 10000 elements in 0.040024950000000004 ms (avg)
+K-sorted 20000 elements in 0.0071708 ms (avg)
+K-sorted 75000 elements in 0.023565299999999997 ms (avg)
+K-sorted 150000 elements in 0.03888725 ms (avg)
+
+Sorting algorithm - InsertionSort
+K-sorted 100 elements in 0.00228225 ms (avg)
+K-sorted 500 elements in 0.01022905 ms (avg)
+K-sorted 1000 elements in 0.021896199999999998 ms (avg)
+K-sorted 2000 elements in 0.05271015 ms (avg)
+K-sorted 5000 elements in 0.0191491 ms (avg)
+K-sorted 10000 elements in 0.030793350000000008 ms (avg)
+K-sorted 20000 elements in 0.004111099999999999 ms (avg)
+K-sorted 75000 elements in 0.017056849999999995 ms (avg)
+K-sorted 150000 elements in 0.040799550000000004 ms (avg)
+
+Sorting algorithm - SelectionSort
+K-sorted 100 elements in 0.055302349999999986 ms (avg)
+K-sorted 500 elements in 0.22844720000000002 ms (avg)
+K-sorted 1000 elements in 0.121075 ms (avg)
+K-sorted 2000 elements in 0.33556244999999996 ms (avg)
+K-sorted 5000 elements in 2.1088244000000005 ms (avg)
+K-sorted 10000 elements in 7.669922099999999 ms (avg)
+K-sorted 20000 elements in 31.238202 ms (avg)
+K-sorted 75000 elements in 441.0686548500001 ms (avg)
+K-sorted 150000 elements in 1809.6795180999998 ms (avg)
+
+Sorting algorithm - ShellSort
+K-sorted 100 elements in 0.009980050000000002 ms (avg)
+K-sorted 500 elements in 0.06258825000000001 ms (avg)
+K-sorted 1000 elements in 0.03316615 ms (avg)
+K-sorted 2000 elements in 0.07402144999999999 ms (avg)
+K-sorted 5000 elements in 0.052489150000000005 ms (avg)
+K-sorted 10000 elements in 0.02811805 ms (avg)
+K-sorted 20000 elements in 0.06047809999999999 ms (avg)
+K-sorted 75000 elements in 0.27128385 ms (avg)
+K-sorted 150000 elements in 0.6685389 ms (avg)
+
+Sorting algorithm - QuickSort
+K-sorted 100 elements in 0.055921900000000004 ms (avg)
+K-sorted 500 elements in 0.14755495 ms (avg)
+K-sorted 1000 elements in 0.1407598 ms (avg)
+K-sorted 2000 elements in 0.44845015000000005 ms (avg)
+K-sorted 5000 elements in 3.0118050999999997 ms (avg)
+K-sorted 10000 elements in 14.757145249999999 ms (avg)
+K-sorted 20000 elements in 57.47614860000001 ms (avg)
+K-sorted 75000 elements in 810.7406153000001 ms (avg)
+K-sorted 150000 elements in 3414.009026500001 ms (avg)
+
+Sorting algorithm - MergeSort
+K-sorted 100 elements in 0.0343118 ms (avg)
+K-sorted 500 elements in 0.04334115 ms (avg)
+K-sorted 1000 elements in 0.09065359999999997 ms (avg)
+K-sorted 2000 elements in 0.21216114999999997 ms (avg)
+K-sorted 5000 elements in 0.29667355 ms (avg)
+K-sorted 10000 elements in 0.5372009500000001 ms (avg)
+K-sorted 20000 elements in 0.6409032500000003 ms (avg)
+K-sorted 75000 elements in 3.723122599999999 ms (avg)
+K-sorted 150000 elements in 9.6902158 ms (avg)
+
